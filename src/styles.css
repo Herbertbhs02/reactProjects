@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav-item {
+  padding: 20px;
+}
+
+.counters {
+  display: flex;
+  margin: 1.5em;
+}
+
+#btn {
+  margin-right: 1.5em;
+  margin-left: 1.5em;
+  margin-top: 1.5em;
+}
+
+.container {
+  background-color: darkblue;
+}
+
+.link {
+  color: white;
+}
